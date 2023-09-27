@@ -1,4 +1,4 @@
-# DR-2Project
+DR-2Project
 Automation Exercise
 It covers test cases of the following testing website Url = https://automationexercise.com/
 
